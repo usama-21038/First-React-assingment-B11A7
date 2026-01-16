@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Iconic 35mm rangefinder camera produced by Leica in the 1950s, prized by collectors and photographers.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 days left",
+    "bitCount": 12,
+    "image": "https://i.ibb.co.com/DHWHcNZb/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Vintage Gibson SG Standard electric guitar from 1965, known for its powerful tone and classic rock history.",
+    "currentBidPrice": 6700,
+    "timeLeft": "6 days left",
+    "bitCount": 7,
+    "image": "https://i.ibb.co.com/1fx7jKZH/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128k (1984",
+    "description": "Original Apple Macintosh 128k released in 1984, a landmark personal computer in technology history.",
+    "currentBidPrice": 4200,
+    "timeLeft": "10h 5m",
+    "bitCount": 19,
+    "image": "https://i.ibb.co.com/PzVfVZsw/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Luxury Rolex Submariner 16610 diving watch, renowned for its durability, precision, and timeless design.",
+    "currentBidPrice": 8900,
+    "timeLeft": "6h 30m",
+    "bitCount": 14,
+    "image": "https://i.ibb.co.com/G3Vv576W/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' Book",
+    "description": "Rare first edition copy of 'The Great Gatsby' by F. Scott Fitzgerald, highly sought after by collectors.",
+    "currentBidPrice": 12500,
+    "timeLeft": "2d 1h",
+    "bitCount": 5,
+    "image": "https://i.ibb.co.com/xSPXB64S/Bid6-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Wood Chair",
+    "description": "Simple handcrafted wooden chair designed for everyday use with a classic, minimal style.",
+    "currentBidPrice": 780,
+    "timeLeft": "12h 40m",
+    "bitCount": 22,
+    "image": "https://i.ibb.co.com/93Cq8gHb/Bid5-min.png"
+  }
+]
